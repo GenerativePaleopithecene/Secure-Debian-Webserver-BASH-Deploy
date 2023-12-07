@@ -162,4 +162,3 @@ This project is licensed under the GNU General Public License, version 3.0 (GPL-
 - 
 ```
 
-This revised README.md provides more detailed information and emphasizes key reminders such as changing the domain name and using the script on a fresh installation. Customize the sections as needed to provide comprehensive instructions and guidance for users of your script.
