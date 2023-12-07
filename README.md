@@ -108,16 +108,16 @@ Before running this script, ensure that you have:
 1. Clone the repository to your server:
 
    ```bash
-   git clone https://github.com/GenerativePaleopithecene/Secure-Debian-Webserver-BASH-Deploy/setup.sh
+   git clone https://github.com/GenerativePaleopithecene/Secure-Debian-Webserver-BASH-Deploy.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd setup
+   cd Secure-Debian-Webserver-BASH-Deploy
    ```
 
-3. Make the script executable:
+3. Makethe script executable:
 
    ```bash
    chmod +x setup.sh
